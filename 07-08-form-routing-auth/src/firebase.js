@@ -3,7 +3,7 @@ import 'firebase/auth'
 import 'firebase/database'
 
 const config = {
-  apiKey: 'AIzaSyBoBLS7r0bMnWiBZDSDcRzLDu7A1Phz3MI',
+  apiKey: 'XXXXX',
   authDomain: 'livre-react.firebaseapp.com',
   databaseURL: 'https://livre-react.firebaseio.com',
   projectId: 'livre-react',
